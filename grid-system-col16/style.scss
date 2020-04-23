@@ -1,0 +1,41 @@
+
+.main {
+    background-color: #CCCCCC;
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 30px;
+    font-family: sans-serif;;
+}
+h2 {
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+$col: 16, 2, 3, 4, 5;
+@each $col in $col {
+    .container#{$col} {
+        margin-bottom: 80px;
+        display: grid;
+        grid-template-columns: repeat($col, 1fr);
+        grid-template-rows: repeat($col, 1fr);
+        grid-gap: 15px;
+        @for $i from 1 to ($col+1) {
+            .col#{$i}{
+                @extend %col;
+                grid-column-end: span $i;
+            }
+        }
+    }
+}
+%col {
+    background-color: #333333;
+    line-height: 40px;
+    text-align: center;
+    color: #CCCCCC;
+    border-radius: 5px;
+}
+.visibility {
+    visibility: hidden;
+}
+

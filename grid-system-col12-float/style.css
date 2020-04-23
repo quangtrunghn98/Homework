@@ -1,0 +1,153 @@
+.row {
+  display: flex;
+  width: 600px;
+  height: 50px;
+  margin: 0 auto;
+  margin-bottom: 1px;
+}
+
+.col-md-1 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 1;
+}
+
+.col-md-2 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 2;
+}
+
+.col-md-3 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 3;
+}
+
+.col-md-4 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 4;
+}
+
+.col-md-5 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 5;
+}
+
+.col-md-6 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 6;
+}
+
+.col-md-7 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 7;
+}
+
+.col-md-8 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 8;
+}
+
+.col-md-9 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 9;
+}
+
+.col-md-10 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 10;
+}
+
+.col-md-11 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 11;
+}
+
+.col-md-12 {
+  background-color: #EF5350;
+  margin: 1px;
+  text-align: right;
+  padding-right: 7px;
+  border-radius: 5px;
+  color: #FEF1F1;
+  line-height: 50px;
+  font-family: sans-serif;
+  flex: 12;
+}
+
+/*# sourceMappingURL=style.css.map */
